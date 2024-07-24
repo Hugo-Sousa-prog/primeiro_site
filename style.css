@@ -1,0 +1,25 @@
+body {
+    background-color: #D96718;
+    color: #D9A018;
+}
+
+strong {
+    color: #D94518;
+}
+
+a {
+    background-color: #00DBD4;
+    color: #0058DB;
+    width: Fixed (280px)px;
+    height: Fixed (79px)px;
+    padding: 16px;
+    gap: 16px;
+    border-radius: 16px;
+    opacity: 0px;
+    border: 2px solid #22D4FD;
+    text-decoration: none;
+}
+
+a:hover{
+    color: #E69912;
+}
